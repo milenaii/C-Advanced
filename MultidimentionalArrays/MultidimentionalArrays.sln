@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5,JaggedResidualsOf ElArray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5a.JaggedResiduals", "5a.JaggedResiduals\5a.JaggedResiduals.csproj", "{E7D8F20D-EB23-4146-8C1F-1F3A5BBAF280}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsOfArray", "MethodsOfArray\MethodsOfArray.csproj", "{246A24A3-CEE2-494A-9647-12544708A99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.MethodsOfArrays2", "6.MethodsOfArrays2\6.MethodsOfArrays2.csproj", "{5EFC8D7A-6B3C-4960-BF0B-FAB1D1EF17E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{E7D8F20D-EB23-4146-8C1F-1F3A5BBAF280}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7D8F20D-EB23-4146-8C1F-1F3A5BBAF280}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7D8F20D-EB23-4146-8C1F-1F3A5BBAF280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246A24A3-CEE2-494A-9647-12544708A99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246A24A3-CEE2-494A-9647-12544708A99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246A24A3-CEE2-494A-9647-12544708A99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246A24A3-CEE2-494A-9647-12544708A99B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFC8D7A-6B3C-4960-BF0B-FAB1D1EF17E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFC8D7A-6B3C-4960-BF0B-FAB1D1EF17E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFC8D7A-6B3C-4960-BF0B-FAB1D1EF17E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFC8D7A-6B3C-4960-BF0B-FAB1D1EF17E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
