@@ -2,11 +2,11 @@
 
 namespace _9.RRandom
 {
-    class Program
+    class Random
     {
         static void Main()
         {
-            Random rand = new Random();  // нова инстанция
+            System.Random rand = new System.Random();  // нова инстанция
             for (int i = 0; i < 10; i++)
             {
                 int randNum = rand.Next(1000, 2000);
@@ -20,7 +20,7 @@ namespace _9.RRandom
 
             for (int i = 0; i < 10; i++)
             {
-                Random randBad = new Random();    // нова инстанция всеки път
+                System.Random randBad = new System.Random();    // нова инстанция всеки път
                 int randNum = randBad.Next(1000, 2000);
                 Console.WriteLine(randNum);
             }
