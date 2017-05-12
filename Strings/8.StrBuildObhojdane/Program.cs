@@ -10,6 +10,7 @@ namespace _8.StrBuildObhojdane
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
