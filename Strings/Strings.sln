@@ -39,8 +39,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.StringBuilder", "16.Stri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.BuilderReplaceRemove", "17.BuilderReplaceRemove\17.BuilderReplaceRemove.csproj", "{C24987F2-CBE8-419B-9CC5-027286B668FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.StrBuildObhojdane", "8.StrBuildObhojdane\8.StrBuildObhojdane.csproj", "{82D8C4D7-8EA2-4C50-98C1-546E05ED405D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.StrBiuldObhojdane", "18.StrBiuldObhojdane\18.StrBiuldObhojdane.csproj", "{B0F8CBFD-E46F-4F27-BB29-8C0300CC176C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.ToStringFormat", "19.ToStringFormat\19.ToStringFormat.csproj", "{9D4748AD-33EC-4A7B-B286-6F7DDEC009EA}"
@@ -127,10 +125,6 @@ Global
 		{C24987F2-CBE8-419B-9CC5-027286B668FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C24987F2-CBE8-419B-9CC5-027286B668FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C24987F2-CBE8-419B-9CC5-027286B668FD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{82D8C4D7-8EA2-4C50-98C1-546E05ED405D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82D8C4D7-8EA2-4C50-98C1-546E05ED405D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82D8C4D7-8EA2-4C50-98C1-546E05ED405D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82D8C4D7-8EA2-4C50-98C1-546E05ED405D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B0F8CBFD-E46F-4F27-BB29-8C0300CC176C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B0F8CBFD-E46F-4F27-BB29-8C0300CC176C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F8CBFD-E46F-4F27-BB29-8C0300CC176C}.Release|Any CPU.ActiveCfg = Release|Any CPU
