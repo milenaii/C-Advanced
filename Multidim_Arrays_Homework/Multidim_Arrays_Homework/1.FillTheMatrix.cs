@@ -51,7 +51,6 @@ class FillTheMatrix
         }
 
         else if ((index == "c"))
-        //Matrix from this tipe:  4 7 9 / 2 5 8 / 1 3 6
         {
             int count = 1;
             int col = 0;
@@ -60,7 +59,7 @@ class FillTheMatrix
             for (int i = n - 1; i >= 0; i--)
             {
                 row = i;
-                col = 0;    // всеки път като върти, колоната да е 0
+                col = 0;    
                 while ((row < n) && (col < n))
                 {
                     mi[row++, col++] = count;
@@ -68,7 +67,7 @@ class FillTheMatrix
                 }
             }
 
-            //Populates values over the main diagonale
+            //Populates values over the main diagonal
 
             for (int j = 1; j < n; j++)
             {
