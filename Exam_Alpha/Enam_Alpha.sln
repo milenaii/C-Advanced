@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enam_Alpha", "Enam_Alpha\Enam_Alpha.csproj", "{0D823AEC-AF82-40A5-92ED-0703463D08AB}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecStep", "SecStep\SecStep.csproj", "{CFDC219F-2B94-469D-962A-93996194678A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecSt", "SecSt\SecSt.csproj", "{03154E2E-5A8B-4118-8B89-672108EC63C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellCaster_Taner", "SpellCaster_Taner\SpellCaster_Taner.csproj", "{AD70DCD4-C4CD-4588-8C70-E7F66BE71DB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{03154E2E-5A8B-4118-8B89-672108EC63C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03154E2E-5A8B-4118-8B89-672108EC63C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03154E2E-5A8B-4118-8B89-672108EC63C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD70DCD4-C4CD-4588-8C70-E7F66BE71DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD70DCD4-C4CD-4588-8C70-E7F66BE71DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD70DCD4-C4CD-4588-8C70-E7F66BE71DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD70DCD4-C4CD-4588-8C70-E7F66BE71DB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
