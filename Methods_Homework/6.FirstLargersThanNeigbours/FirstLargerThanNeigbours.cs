@@ -20,10 +20,10 @@ namespace _6.FirstLargersThanNeigbourssss
 
         static void Main()
         {
-            Console.WriteLine("Enter a number N - the size of the array: ");
+           // Console.WriteLine("Enter a number N - the size of the array: ");
             int n = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter N numbers separated by spaces - the array: ");
+            //Console.WriteLine("Enter N numbers separated by spaces - the array: ");
 
             string[] inputArray = Console.ReadLine().Split(' ');
 

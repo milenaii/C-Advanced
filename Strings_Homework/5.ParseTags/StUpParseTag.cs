@@ -19,11 +19,19 @@ namespace _5.ParseTags
                 int indexStart = text.IndexOf("<upcase>");
                 int indexEnd = text.IndexOf("</upcase>");
 
+<<<<<<< HEAD
                 //string sub = text.Substring(indexStart, indexEnd - indexStart);
 
                 //string result = text.Replace(sub, sub.ToUpper());
                 //result = result.Remove(indexEnd, 9);
                 //text = result.Remove(indexStart, 8);
+=======
+                string sub = text.Substring(indexStart, indexEnd - indexStart);
+
+                string result = text.Replace(sub, sub.ToUpper());
+                result = result.Remove(indexEnd, 9);
+                text = result.Remove(indexStart, 8);
+>>>>>>> 287f6f6531c476e8c5eb0524f3bf432072edb43c
             }
             return text;
         }
